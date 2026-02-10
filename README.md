@@ -1,101 +1,91 @@
-##Customer Churn Analysis Dashboard (Power BI)
+# 📊 Customer Churn Analysis Dashboard (Power BI)
 
-This project is an interactive Customer Churn Analysis Dashboard built in Power BI to identify churn patterns, customer behavior, and revenue insights. The dashboard helps businesses understand why customers leave and supports data-driven retention strategies.
+This project is an interactive **Customer Churn Analysis Dashboard** built using **Power BI** to analyze customer behavior, churn trends, and revenue insights. The dashboard helps organizations understand why customers leave and supports data-driven retention strategies.
 
-##DATASET
+---
 
-##📊 Dashboard Overview
+## 🚀 Project Overview
 
-The dashboard provides a high-level and detailed analysis of:
+The dashboard provides a comprehensive analysis of customer churn by combining KPIs, segmentation metrics, and visual storytelling. It enables businesses to monitor churn rate, customer demographics, subscription behavior, and service usage patterns.
 
-Total customers and churned customers
+---
 
-Churn rate percentage
+## 📌 Key KPIs
 
-Average monthly charges
+- **Total Customers:** 7043  
+- **Churned Customers:** 1869  
+- **Churn Rate:** 26.54%  
+- **Average Monthly Charges:** 64.76  
+- **Total Admin Tickets:** 3632  
+- **Total Tech Tickets:** 2955  
 
-Admin & technical support tickets
+---
 
-Revenue insights
+## 📈 Insights Covered
 
-Customer demographics and subscription behavior
+- Churn distribution by contract type  
+- Payment method impact on churn  
+- Internet service usage trends  
+- Paperless billing behavior  
+- Subscription duration vs churn  
+- Gender-based churn analysis  
+- Senior citizen, partner & dependent segmentation  
+- Revenue summary and averages  
 
-##🚀 Key Insights
+---
 
-Churn rate analysis across contract types
+## 🛠 Tools & Technologies
 
-Impact of payment methods on churn
+- **Power BI**
+- **DAX** (Data Analysis Expressions)
+- Data modeling
+- Data cleaning & transformation
+- Data visualization
 
-Internet service usage patterns
+---
 
-Paperless billing trends
-
-Subscription duration vs churn
-
-Gender-based churn distribution
-
-Senior citizen, partner, and dependent segmentation
-
-##📌 KPIs Included
-
-Total Customers: 7043
-
-Churned Customers: 1869
-
-Churn Rate: 26.54%
-
-Avg Monthly Charges: 64.76
-
-Total Admin Tickets: 3632
-
-Total Tech Tickets: 2955
-
-##📈 Visualizations Used
-
-Bar charts (Payment method, Internet service, Contracts)
-
-Donut charts (Paperless billing, Gender churn)
-
-KPI cards
-
-Segmentation metrics
-
-Revenue summary cards
-
-##🛠 Tools & Technologies
-
-Power BI
-
-DAX (for calculated measures)
-
-Data modeling
-
-Data visualization techniques
-
-##🎯 Project Objective
+## 🎯 Objective
 
 The goal of this project is to:
 
-Identify customer churn patterns
+- Identify customer churn patterns  
+- Improve retention strategies  
+- Generate actionable insights  
+- Support business decision-making using analytics  
 
-Improve retention strategies
+---
 
-Provide actionable business insights
+## 📷 Dashboard Preview
 
-Support decision-making using data analytics
+![Dashboard Screenshot](add-your-image-file-here)
 
-##📷 Dashboard Preview
+*(Upload your screenshot to the repo and replace the file name above)*
 
-(Add your screenshot here)
+---
 
-##💡 Skills Demonstrated
+## 💡 Skills Demonstrated
 
-Data cleaning & transformation
+- KPI development
+- Dashboard design
+- Business storytelling with data
+- Analytical thinking
+- Customer churn analysis
+- Insight generation
 
-DAX measure creation
+---
 
-KPI design
+## 📂 Dataset
 
-Dashboard storytelling
+The dataset contains customer demographic details, subscription information, billing behavior, and service usage required to analyze churn patterns.
 
-Business insight generation
+---
+
+## ⭐ Conclusion
+
+This dashboard transforms raw customer data into meaningful insights that can help organizations reduce churn, improve customer satisfaction, and optimize business strategies.
+
+---
+
+### 👤 Author
+Rishabh Lasunte
+
